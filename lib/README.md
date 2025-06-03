@@ -22,6 +22,6 @@ A Flutter app for managing daily tasks. You can add tasks, mark tasks as complet
 ## Technologies Used
 
 - Flutter
-- Dart
+- Dart 
 - SharedPreferences for local task storage
 
