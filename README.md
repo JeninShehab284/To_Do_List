@@ -34,5 +34,7 @@ A Flutter app for managing daily tasks. You can add tasks, mark tasks as complet
   <img src="https://github.com/JeninShehab284/To_Do_List/blob/master/login_screen.png?raw=true" width="200" />
   <img src="https://github.com/JeninShehab284/To_Do_List/blob/master/account.png?raw=true" width="200" />
   <img src="https://github.com/JeninShehab284/To_Do_List/blob/master/add_task.png?raw=true" width="200" />
+  <img src="https://github.com/JeninShehab284/To_Do_List/blob/master/task.png?raw=true" width="200" />
+  <img src="https://github.com/JeninShehab284/To_Do_List/blob/master/setting_screen.png?raw=true" width="200" />
 </p>
 
